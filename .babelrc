@@ -18,6 +18,7 @@
         "alias": {
           "@Components": "./src/Components",
           "@Context": "./src/Context",
+          "@Reducer": "./src/Reducer",
           "@Styles": "./src/Styles",
           "@Ui": "./src/Ui"
         }
